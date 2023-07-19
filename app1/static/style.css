@@ -1,0 +1,23 @@
+body{
+    background: cornsilk;
+    height:50% ;
+    padding-left:200px ;
+    margin: 25px 0;
+}
+table
+,th,
+td{border: 1px solid rgba(6, 200, 244, 0.889)
+
+ }
+tr:hover{
+    background-color: goldenrod;
+}
+th{
+    background-color:rgb(201, 105, 137); 
+}
+button{
+    border-radius: 12px;
+    color:aqua ;
+    background-color:#8eecca ;
+    cursor: pointer;
+}
